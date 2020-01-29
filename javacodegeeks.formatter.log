@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-16T17:18:30</date>
+  <millis>1579175310275</millis>
+  <sequence>0</sequence>
+  <logger>com.ibaseit.learning.operations.MyLoggerException</logger>
+  <level>INFO</level>
+  <class>com.ibaseit.learning.operations.FormatExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finnest message: Logger with DEFAULT FORMATTER</message>
+</record>
+Jan 16, 2020 5:18:30 PM com.ibaseit.learning.operations.FormatExample main
+FINEST: Finnest message: Logger with SIMPLE FORMATTER
